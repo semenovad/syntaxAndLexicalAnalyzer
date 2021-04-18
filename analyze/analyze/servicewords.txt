@@ -1,0 +1,1 @@
+for int bool char while switch do sizeof cout cin main return begin end type var integer boolean real while case writeln

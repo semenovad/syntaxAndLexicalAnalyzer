@@ -1,0 +1,6 @@
+﻿  Analyse.cpp
+  LexicAnalyze.cpp
+  SyntaxAnalyze.cpp
+C:\Users\darja_yiqglp\OneDrive\Рабочий стол\analyze\analyze\SyntaxAnalyze.cpp(605,13): warning C4101: error_num: неиспользованная локальная переменная
+  Создание кода...
+  analyze.vcxproj -> C:\Users\darja_yiqglp\OneDrive\Рабочий стол\analyze\x64\Debug\analyze.exe

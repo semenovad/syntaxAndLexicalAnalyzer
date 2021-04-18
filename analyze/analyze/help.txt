@@ -1,0 +1,31 @@
+program test;
+var r: real;
+    i, j, n, s: integer;
+	t: boolean;
+begin
+    s:= 0;
+	t:= true;
+    while ((j <> 0)) do begin
+       n:= 2;
+	   r:= 1.23;
+       while ((i < 10) <> (j < 11)) do begin
+          s:= s + 1;
+       end;
+       r:= r + 1/n;
+    end;
+    writeln('количество различных букв = ', r);
+end.
+
+program test;
+var r:real;
+    i,j,n:integer;
+begin
+    r:=0;
+    while (i = j <> 0) > (j <= lim) do begin
+       n:=0;
+       while (i < 10) <> (j < 11) do begin
+          s:=s+1;
+       end;
+       r:=r+1/n;
+    writeln('количество различных букв = ', r);
+end;
